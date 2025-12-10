@@ -3,8 +3,8 @@
     "grad": "SUBTEN",
     "nome_guerra": "BORDALO",
     "nome_completo": "Pedro de Oliveira Bordalo Júnior",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-10",
     "img": "img/bm.png"
   },
   {

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Painel de Declarações de Bens - 27º GBM / CBMPA</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" type="img/png" href="img/favicon.ico">
+  </head>
+  <body>
+    <div class="page">
+      <!-- TOPO / IDENTIFICAÇÃO -->
+      <header class="topbar card">
+        <div class="topbar-left">
+          <div class="logo-wrapper">
+            <!-- Usa a logo do quartel -->
+            <img src="img/logo27gbm.png" alt="Logo 27º GBM" class="logo-img" />
+          </div>
+          <div class="brand-text">
+            <p class="org">CORPO DE BOMBEIROS MILITAR DO PARÁ</p>
+            <p class="unit">27º GRUPAMENTO BOMBEIRO MILITAR</p>
+            <p class="subtitle">Painel de Controle - Declaração de Bens</p>
+          </div>
+        </div>
+
+        <div class="topbar-right">
+          <div class="search-box">
+            <label for="search">Graduação ou nome</label>
+            <input
+              id="search"
+              class="search"
+              type="text"
+              placeholder="Busque por graduação ou nome..."
+              list="militares-list"
+            />
+            <datalist id="militares-list"></datalist>
+          </div>
+        </div>
+      </header>
+
+      <!-- PAINEL PRINCIPAL -->
+      <main class="card main-panel">
+        <!-- Linha com prazo e contador -->
+        <div class="panel-header">
+          <div class="panel-title-block">
+            <h1>Painel de Entrega de Declarações de Bens</h1>
+            <p class="panel-sub">
+              Acompanhamento das entregas pelos militares do 27º GBM.
+            </p>
+          </div>
+
+          <div class="deadline-box">
+            <p class="deadline-label">Prazo final</p>
+            <p class="deadline-date">31/12/2025</p>
+            <p class="countdown-text" id="countdown">-</p>
+          </div>
+        </div>
+
+        <!-- ESTATÍSTICAS SIMPLES + BARRA DE PROGRESSO -->
+        <section class="stats">
+          <div class="stats-cards">
+            <div class="stat-card delivered">
+              <span class="stat-label">Entregues</span>
+              <span class="stat-value" id="deliveredCount">0</span>
+            </div>
+
+            <div class="stat-card pending">
+              <span class="stat-label">Pendentes</span>
+              <span class="stat-value" id="pendingCount">0</span>
+            </div>
+
+            <div class="stat-card total">
+              <span class="stat-label">Total de militares</span>
+              <span class="stat-value" id="total">0</span>
+            </div>
+          </div>
+
+          <div class="progress-block">
+            <div class="progress-header">
+              <span>Progresso das entregas</span>
+              <span id="progressLabel" class="progress-label"
+                >0% entregues</span
+              >
+            </div>
+            <div class="progress-bar">
+              <div id="progressFill" class="progress-fill"></div>
+            </div>
+          </div>
+        </section>
+
+        <!-- LISTA DE MILITARES -->
+        <section class="list-section">
+          <div class="list-header">
+            <h2>Relação de militares</h2>
+            <span class="list-info"
+              >Visualize a situação individual de cada militar.</span
+            >
+          </div>
+
+          <div id="list" class="list"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

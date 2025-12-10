@@ -1,0 +1,298 @@
+[
+  {
+    "grad": "SUBTEN",
+    "nome_guerra": "BORDALO",
+    "nome_completo": "Pedro de Oliveira Bordalo Júnior",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SUBTEN",
+    "nome_guerra": "CÉZAR",
+    "nome_completo": "Júlio Cézar Lima Costa",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "1º SGT",
+    "nome_guerra": "L MONTEIRO",
+    "nome_completo": "Antônio Renato Lobo Monteiro",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "1º SGT",
+    "nome_guerra": "ADIVALDO",
+    "nome_completo": "Adivaldo Carvalho Costa",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "1º SGT",
+    "nome_guerra": "FERREIRA",
+    "nome_completo": "Maridilson Monteiro dos Santos Ferreira",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "1º SGT",
+    "nome_guerra": "R CÉLIO",
+    "nome_completo": "Raimundo Célio Pereira dos Santos",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "2º SGT",
+    "nome_guerra": "LOBATO",
+    "nome_completo": "Marcos Lobato Sarmento",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "2º SGT",
+    "nome_guerra": "RONILDO",
+    "nome_completo": "Ronildo Andrade de Andrade",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "2º SGT",
+    "nome_guerra": "DE BRITO",
+    "nome_completo": "José Erinaldo de Brito",
+    "status": "entregue",
+    "data_entrega": "2025-12-06",
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "2º SGT",
+    "nome_guerra": "PACHECO",
+    "nome_completo": "Edson Pacheco de Sousa",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "2º SGT",
+    "nome_guerra": "FRANKLIN",
+    "nome_completo": "Franklin Jacinto da Silva",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "2º SGT",
+    "nome_guerra": "SILAS",
+    "nome_completo": "Silas de Souza Ferreira",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "2º SGT",
+    "nome_guerra": "JHONATAN",
+    "nome_completo": "Jhonatan Feijó Silva",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "3º SGT",
+    "nome_guerra": "CARLOS",
+    "nome_completo": "Luis Carlos Lima Coelho",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "3º SGT",
+    "nome_guerra": "RUFINO",
+    "nome_completo": "Jonatas Rufino do Nascimento",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "3º SGT",
+    "nome_guerra": "JULIO CESAR",
+    "nome_completo": "Julio César da Silva Lima",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "3º SGT",
+    "nome_guerra": "DIEGO",
+    "nome_completo": "Diego de Oliveira Cruz",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "3º SGT",
+    "nome_guerra": "L RODRIGUES",
+    "nome_completo": "Luis Oliveira Rodrigues",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "3º SGT",
+    "nome_guerra": "J DIAS",
+    "nome_completo": "Joelio Pereira Dias",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "3º SGT",
+    "nome_guerra": "RUBINELIO",
+    "nome_completo": "Rubinelio de Sousa Paiva",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "CB",
+    "nome_guerra": "REIS",
+    "nome_completo": "Renan Reis de Souza",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "CB",
+    "nome_guerra": "LEONARDO",
+    "nome_completo": "Leonardo Silva de Souza",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "CB",
+    "nome_guerra": "ANDREZA",
+    "nome_completo": "Cosma Andreza Silva de Lima",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "CB",
+    "nome_guerra": "DIEGO PANTOJA",
+    "nome_completo": "Diego Silva Pantoja",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "CB",
+    "nome_guerra": "J LIMA",
+    "nome_completo": "Jonathas Antonio Araújo Lima",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "VEIGA",
+    "nome_completo": "Clenilson Veiga da Costa",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "ALVARO",
+    "nome_completo": "Alvaro Dias Veloso",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "T NOGUEIRA",
+    "nome_completo": "Thiago Alves Nogueira",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "BAIA",
+    "nome_completo": "Rafael Baia da Rocha",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "TANIMOTO",
+    "nome_completo": "Guilherme Lopes Tanimoto",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "BRADLEY",
+    "nome_completo": "Bradley Christian Sousa da Silva",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "PRISCILLA",
+    "nome_completo": "Priscilla Jacob Andrade",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "JESSICA",
+    "nome_completo": "Jessica Gabrielle Pinheiro Rodrigues",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "LEAL",
+    "nome_completo": "Mateus Leal Souza",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "M ARAÚJO",
+    "nome_completo": "Luan Moreira Araújo",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "EMERSON",
+    "nome_completo": "Emerson Rodrigues Correa",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  },
+  {
+    "grad": "SD",
+    "nome_guerra": "ESTEVÃO",
+    "nome_completo": "Luiz Estevão Monteiro Rodrigues",
+    "status": "pendente",
+    "data_entrega": null,
+    "img": "img/bm.png"
+  }
+]

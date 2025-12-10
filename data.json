@@ -139,8 +139,8 @@
     "grad": "3º SGT",
     "nome_guerra": "L RODRIGUES",
     "nome_completo": "Luis Oliveira Rodrigues",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-05",
     "img": "img/bm.png"
   },
   {
@@ -179,8 +179,8 @@
     "grad": "CB",
     "nome_guerra": "ANDREZA",
     "nome_completo": "Cosma Andreza Silva de Lima",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-10-12",
     "img": "img/bm.png"
   },
   {
@@ -203,24 +203,24 @@
     "grad": "SD",
     "nome_guerra": "VEIGA",
     "nome_completo": "Clenilson Veiga da Costa",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-05",
     "img": "img/bm.png"
   },
   {
     "grad": "SD",
     "nome_guerra": "ALVARO",
     "nome_completo": "Alvaro Dias Veloso",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-06",
     "img": "img/bm.png"
   },
   {
     "grad": "SD",
     "nome_guerra": "T NOGUEIRA",
     "nome_completo": "Thiago Alves Nogueira",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-05",
     "img": "img/bm.png"
   },
   {
@@ -243,8 +243,8 @@
     "grad": "SD",
     "nome_guerra": "BRADLEY",
     "nome_completo": "Bradley Christian Sousa da Silva",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-06",
     "img": "img/bm.png"
   },
   {
@@ -267,8 +267,8 @@
     "grad": "SD",
     "nome_guerra": "LEAL",
     "nome_completo": "Mateus Leal Souza",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-07",
     "img": "img/bm.png"
   },
   {

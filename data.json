@@ -107,8 +107,8 @@
     "grad": "3º SGT",
     "nome_guerra": "CARLOS",
     "nome_completo": "Luis Carlos Lima Coelho",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-15",
     "img": "img/bm.png"
   },
   {

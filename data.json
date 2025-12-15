@@ -283,8 +283,8 @@
     "grad": "SD",
     "nome_guerra": "EMERSON",
     "nome_completo": "Emerson Rodrigues Correa",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-15",
     "img": "img/bm.png"
   },
   {

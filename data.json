@@ -35,8 +35,8 @@
     "grad": "1º SGT",
     "nome_guerra": "FERREIRA",
     "nome_completo": "Maridilson Monteiro dos Santos Ferreira",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-11",
     "img": "img/bm.png"
   },
   {
@@ -75,8 +75,8 @@
     "grad": "2º SGT",
     "nome_guerra": "PACHECO",
     "nome_completo": "Edson Pacheco de Sousa",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-14",
     "img": "img/bm.png"
   },
   {
@@ -123,16 +123,16 @@
     "grad": "3º SGT",
     "nome_guerra": "JULIO CESAR",
     "nome_completo": "Julio César da Silva Lima",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-05",
     "img": "img/bm.png"
   },
   {
     "grad": "3º SGT",
     "nome_guerra": "DIEGO",
     "nome_completo": "Diego de Oliveira Cruz",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-12",
     "img": "img/bm.png"
   },
   {
@@ -171,8 +171,8 @@
     "grad": "CB",
     "nome_guerra": "LEONARDO",
     "nome_completo": "Leonardo Silva de Souza",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-11",
     "img": "img/bm.png"
   },
   {
@@ -180,7 +180,7 @@
     "nome_guerra": "ANDREZA",
     "nome_completo": "Cosma Andreza Silva de Lima",
     "status": "entregue",
-    "data_entrega": "2025-10-12",
+    "data_entrega": "2025-12-10",
     "img": "img/bm.png"
   },
   {
@@ -275,8 +275,8 @@
     "grad": "SD",
     "nome_guerra": "M ARAÚJO",
     "nome_completo": "Luan Moreira Araújo",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-12",
     "img": "img/bm.png"
   },
   {

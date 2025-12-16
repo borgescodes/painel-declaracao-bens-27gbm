@@ -1,4 +1,4 @@
-[
+e[
   {
     "grad": "SUBTEN",
     "nome_guerra": "BORDALO",
@@ -51,8 +51,8 @@
     "grad": "2º SGT",
     "nome_guerra": "LOBATO",
     "nome_completo": "Marcos Lobato Sarmento",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-16",
     "img": "img/bm.png"
   },
   {
@@ -195,8 +195,8 @@
     "grad": "CB",
     "nome_guerra": "J LIMA",
     "nome_completo": "Jonathas Antonio Araújo Lima",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-16",
     "img": "img/bm.png"
   },
   {

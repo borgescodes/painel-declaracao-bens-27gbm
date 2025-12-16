@@ -1,6 +1,6 @@
 // app.js — Painel de Declarações de Bens 27º GBM / CBMPA
 
-const deadline = new Date("2025-12-31T23:59:00");
+const deadline = new Date("2025-12-15T23:59:00");
 const $ = (sel) => document.querySelector(sel);
 
 let allData = [];

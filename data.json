@@ -27,8 +27,8 @@
     "grad": "1º SGT",
     "nome_guerra": "ADIVALDO",
     "nome_completo": "Adivaldo Carvalho Costa",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-16",
     "img": "img/bm.png"
   },
   {
@@ -115,8 +115,8 @@
     "grad": "3º SGT",
     "nome_guerra": "RUFINO",
     "nome_completo": "Jonatas Rufino do Nascimento",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-16",
     "img": "img/bm.png"
   },
   {

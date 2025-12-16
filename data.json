@@ -11,8 +11,8 @@
     "grad": "SUBTEN",
     "nome_guerra": "CÉZAR",
     "nome_completo": "Júlio Cézar Lima Costa",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-16",
     "img": "img/bm.png"
   },
   {
@@ -187,8 +187,8 @@
     "grad": "CB",
     "nome_guerra": "DIEGO PANTOJA",
     "nome_completo": "Diego Silva Pantoja",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-16",
     "img": "img/bm.png"
   },
   {
@@ -227,16 +227,16 @@
     "grad": "SD",
     "nome_guerra": "BAIA",
     "nome_completo": "Rafael Baia da Rocha",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-16",
     "img": "img/bm.png"
   },
   {
     "grad": "SD",
     "nome_guerra": "TANIMOTO",
     "nome_completo": "Guilherme Lopes Tanimoto",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-16",
     "img": "img/bm.png"
   },
   {

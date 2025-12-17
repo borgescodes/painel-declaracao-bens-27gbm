@@ -59,8 +59,8 @@
     "grad": "2º SGT",
     "nome_guerra": "RONILDO",
     "nome_completo": "Ronildo Andrade de Andrade",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-15",
     "img": "img/bm.png"
   },
   {
@@ -163,8 +163,8 @@
     "grad": "CB",
     "nome_guerra": "REIS",
     "nome_completo": "Renan Reis de Souza",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-17",
     "img": "img/bm.png"
   },
   {

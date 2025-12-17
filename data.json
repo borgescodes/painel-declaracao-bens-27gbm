@@ -83,8 +83,8 @@
     "grad": "2º SGT",
     "nome_guerra": "FRANKLIN",
     "nome_completo": "Franklin Jacinto da Silva",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-17",
     "img": "img/bm.png"
   },
   {

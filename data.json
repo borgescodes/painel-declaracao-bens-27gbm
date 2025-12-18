@@ -155,8 +155,8 @@
     "grad": "3º SGT",
     "nome_guerra": "RUBINELIO",
     "nome_completo": "Rubinelio de Sousa Paiva",
-    "status": "pendente",
-    "data_entrega": null,
+    "status": "entregue",
+    "data_entrega": "2025-12-18",
     "img": "img/bm.png"
   },
   {
